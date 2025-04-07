@@ -72,4 +72,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thanhtaiinguyen&" alt="thanhtaiinguyen" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=thanhtaiinguyen&show_icons=true&locale=en&layout=compact" alt="thanhtaiinguyen" /></p>
 
-
+<img src="https://raw.githubusercontent.com/thanhtaiinguyen/thanhtaiinguyen/output/snake.svg" alt="Snake animation" />
