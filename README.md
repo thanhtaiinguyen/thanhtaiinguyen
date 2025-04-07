@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm ThanhTai</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I'm+Thanh+Tai;UI%2FUX+DESIGN;Cloud+Engineer" alt="Typing SVG" /></a>
 <p>UI/UX Design</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a>
