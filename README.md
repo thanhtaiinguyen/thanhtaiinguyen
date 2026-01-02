@@ -48,14 +48,3 @@ Mục tiêu của tôi là xây dựng các ứng dụng đa nền tảng hiệu
 </div>
 
 <br/>
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thanhtaiinguyen&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="thanhtaiinguyen" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thanhtaiinguyen&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="thanhtaiinguyen" height="180"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanhtaiinguyen&theme=tokyonight&hide_border=true&background=0D1117" alt="thanhtaiinguyen" />
-</div>
